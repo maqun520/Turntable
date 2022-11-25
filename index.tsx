@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { useState, useContext, useEffect } from "react";
+import style from "./index.less";
 import Img from "./Img";
 import TurntableImg from "./TurntableImg.png";
 import TurntableImgEn from "./TurntableImgEn.png";
